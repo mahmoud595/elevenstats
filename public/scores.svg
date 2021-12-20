@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29" height="29.001" viewBox="0 0 29 29.001">
+  <g id="Group_751" dataname="Group 751" transform="translate(-0.372 -0.247)">
+    <g id="Group_316" dataname="Group 316">
+      <g id="Group_315" dataname="Group 315">
+        <g id="Group_313" dataname="Group 313">
+          <path id="Exclusion_1" dataname="Exclusion 1" d="M15.616,5V0H29V5H15.616ZM0,5V0H13.384V5H0Z" transform="translate(0.372 0.247)" />
+        </g>
+        <g id="Group_314" dataname="Group 314" transform="translate(0 7.482)">
+          <path id="Exclusion_1-2" dataname="Exclusion 1" d="M29,22H15.616V0H29V22ZM13.387,22H0V0H13.387V22Z" transform="translate(0.372 -0.236)" />
+        </g>
+      </g>
+    </g>
+    <text id="_1" dataname="1" transform="translate(3.371 23.247)" fill="#FFFFFF" font-size="15" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">1</tspan></text>
+    <text id="_2" dataname="2" transform="translate(18.371 23.247)" fill="#FFFFFF" font-size="15" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">2</tspan></text>
+  </g>
+</svg>

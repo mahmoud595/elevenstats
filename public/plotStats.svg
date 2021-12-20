@@ -1,0 +1,29 @@
+<svg id="Group_503" dataname="Group 503" xmlns="http://www.w3.org/2000/svg" width="24.184" height="24.291" viewBox="0 0 24.184 24.291">
+  <g id="bar-chart">
+    <g id="Group_494" dataname="Group 494" transform="translate(0)">
+      <g id="Group_493" dataname="Group 493">
+        <path id="Path_167" dataname="Path 167" d="M52.765,0a2.421,2.421,0,0,0-2.418,2.418,2.4,2.4,0,0,0,.486,1.439l-3.944,4.28a2.343,2.343,0,0,0-1.911.331L42.165,6.359a2.383,2.383,0,0,0,.121-.716,2.418,2.418,0,1,0-4.837,0,2.383,2.383,0,0,0,.121.716L34.757,8.468a2.518,2.518,0,1,0,.959,1.3l2.813-2.109a2.406,2.406,0,0,0,2.677,0l2.813,2.109a2.383,2.383,0,0,0-.121.716,2.418,2.418,0,1,0,4.837,0,2.4,2.4,0,0,0-.486-1.439l3.944-4.28a2.393,2.393,0,0,0,.572.076,2.418,2.418,0,1,0,0-4.837Z" transform="translate(-31)" fill="#A1B5C9"/>
+      </g>
+    </g>
+    <g id="Group_496" dataname="Group 496" transform="translate(6.449 12.898)">
+      <g id="Group_495" dataname="Group 495">
+        <path id="Path_168" dataname="Path 168" d="M155.031,240h-3.225a.806.806,0,0,0-.806.806v10.587h4.837V240.806A.806.806,0,0,0,155.031,240Z" transform="translate(-151 -240)" />
+      </g>
+    </g>
+    <g id="Group_498" dataname="Group 498" transform="translate(12.898 16.123)">
+      <g id="Group_497" dataname="Group 497">
+        <path id="Path_169" dataname="Path 169" d="M275.031,300h-3.224a.806.806,0,0,0-.806.806v7.363h4.837v-7.363A.806.806,0,0,0,275.031,300Z" transform="translate(-271 -300)" />
+      </g>
+    </g>
+    <g id="Group_500" dataname="Group 500" transform="translate(19.347 9.674)">
+      <g id="Group_499" dataname="Group 499">
+        <path id="Path_170" dataname="Path 170" d="M395.031,180h-3.225a.806.806,0,0,0-.806.806v13.812h4.837V180.806A.806.806,0,0,0,395.031,180Z" transform="translate(-391 -180)" />
+      </g>
+    </g>
+    <g id="Group_502" dataname="Group 502" transform="translate(0 17.735)">
+      <g id="Group_501" dataname="Group 501">
+        <path id="Path_171" dataname="Path 171" d="M35.031,330H31.806a.806.806,0,0,0-.806.806v5.75h4.837v-5.75A.806.806,0,0,0,35.031,330Z" transform="translate(-31 -330)" />
+      </g>
+    </g>
+  </g>
+</svg>

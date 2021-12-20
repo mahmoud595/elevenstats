@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="25" viewBox="0 0 35 25">
+  <g id="Group_3420" dataname="Group 3420" transform="translate(-1858 -397)">
+    <g id="Group_3417" dataname="Group 3417" transform="translate(-7 -1)">
+      <g id="Group_3416" dataname="Group 3416">
+        <path id="Polygon_8" dataname="Polygon 8" d="M12.5,0,25,24H0Z" transform="translate(1900 398) rotate(90)" fill="#43093c"/>
+      </g>
+      <g id="Group_3419" dataname="Group 3419">
+        <g id="Group_3415" dataname="Group 3415">
+          <g id="Group_3414" dataname="Group 3414">
+            <g id="Group_3413" dataname="Group 3413">
+              <circle id="Ellipse_980" dataname="Ellipse 980" cx="12.5" cy="12.5" r="12.5" transform="translate(1865 398)" fill="#43093c"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_3418" dataname="Group 3418" transform="translate(-7 -1)">
+      <g id="Group_2340" dataname="Group 2340" transform="translate(1870.896 404.267)">
+        <path id="Subtraction_6" dataname="Subtraction 6" d="M13,13H7V3.9h6V13ZM9.837,6.043c.368,0,.763.191.763.609,0,.564-.526,1.032-2.47,2.463V9.9h3.514V9.024H9.7c1.375-.968,1.911-1.633,1.911-2.372A1.585,1.585,0,0,0,9.824,5.161a2.355,2.355,0,0,0-1.8.763l.567.658A1.669,1.669,0,0,1,9.837,6.043ZM6,13H0V3.9H6V13ZM2.42,6.611V10h.994V5.33H2.546L1.076,6.808l.567.595.775-.789ZM13,2.6H7V0h6V2.6Zm-7,0H0V0H6V2.6Z" transform="translate(0.104 -0.266)" fill="#bf8fba"/>
+      </g>
+    </g>
+  </g>
+</svg>
